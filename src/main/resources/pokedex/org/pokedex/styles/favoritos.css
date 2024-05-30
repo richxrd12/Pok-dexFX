@@ -1,0 +1,41 @@
+#tablaPokemon {
+    -fx-alignment: CENTER;
+}
+
+.table-row-cell:hover,
+.table-row-cell:filled:selected {
+    -fx-background-color: #336699;
+}
+
+.table-row-cell:hover .table-cell,
+.table-row-cell:filled:selected .table-cell {
+    -fx-text-fill: white;
+}
+
+#idPokemon,
+#nombrePokemon,
+#totalPokemon,
+#guardarPokemon,
+#guardarColumn,
+#idMegaPokemon,
+#nombreMegaPokemon,
+#totalMegaPokemon{
+    -fx-text-fill: black;
+    -fx-background-color: white;
+    -fx-alignment: CENTER;
+}
+
+#nombrePoke,
+#vidaPoke,
+#ataquePoke,
+#defensaPoke,
+#atEspPoke,
+#defEspPoke,
+#velocidadPoke,
+#tipoPoke{
+    -fx-alignment: CENTER;
+}
+
+#leftMenu {
+    -fx-background-color: #b81414;
+}

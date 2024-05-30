@@ -1,0 +1,9 @@
+/* styles.css */
+
+#leftMenu {
+    -fx-background-color: #b81414;
+}
+
+#errorLabel{
+    -fx-text-fill: #F0F0F0;
+}

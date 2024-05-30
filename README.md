@@ -29,5 +29,7 @@ La Pokédex es un proyecto de código abierto. Te invitamos a contribuir con tu 
 Recursos adicionales:
 
 Guía de instalación de Java Development Kit (JDK) https://www.oracle.com/es/java/technologies/downloads/#java21
+
 Guía de instalación de PostgreSQL https://www.postgresql.org/download/
+
 ¡Mucha suerte con tu proyecto!

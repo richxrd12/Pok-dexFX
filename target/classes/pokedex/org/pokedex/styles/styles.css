@@ -1,0 +1,17 @@
+#main{
+    -fx-background-color: #b81414;
+}
+
+#paneLogin{
+    -fx-background-color: #ffffff;
+    -fx-border-color: #000000;
+}
+
+#loginButton{
+    -fx-background-color: #ffffff;
+    -fx-border-color: #000000;
+}
+
+#leftMenu{
+    -fx-background-color: #b81414;
+}
